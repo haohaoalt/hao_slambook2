@@ -1,7 +1,0 @@
-[
-{
-  "directory": "/home/hao007/github/hao_slambook2/build",
-  "command": "/usr/bin/g++   -I/usr/include/eigen3  -g   -o CMakeFiles/eigenMatrix.dir/eigenMatrix.cpp.o -c /home/hao007/github/hao_slambook2/ch3/useEigen/eigenMatrix.cpp",
-  "file": "/home/hao007/github/hao_slambook2/ch3/useEigen/eigenMatrix.cpp"
-}
-]

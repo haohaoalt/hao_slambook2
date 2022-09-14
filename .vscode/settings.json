@@ -1,5 +1,5 @@
 {
-    "cmake.sourceDirectory": "${workspaceFolder}/ch3/useEigen",
+    "cmake.sourceDirectory": "${workspaceFolder}/ch3/useGeometry",
     "files.associations": {
         "ostream": "cpp"
     }

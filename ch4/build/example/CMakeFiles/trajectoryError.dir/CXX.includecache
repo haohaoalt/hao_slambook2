@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hao007/github/hao_slambook2/ch4/example/trajectoryError.cpp
+iostream
+-
+fstream
+-
+unistd.h
+-
+pangolin/pangolin.h
+-
+sophus/se3.hpp
+/home/hao007/github/hao_slambook2/ch4/example/sophus/se3.hpp
+

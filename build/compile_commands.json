@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/hao007/github/hao_slambook2/build",
+  "command": "/usr/bin/g++   -I/usr/include/eigen3  -g   -o CMakeFiles/eigenGeometry.dir/eigenGeometry.cpp.o -c /home/hao007/github/hao_slambook2/ch3/useGeometry/eigenGeometry.cpp",
+  "file": "/home/hao007/github/hao_slambook2/ch3/useGeometry/eigenGeometry.cpp"
+}
+]

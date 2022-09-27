@@ -1,0 +1,5 @@
+/home/hao007/github/hao_slambook2/ch6/build/CMakeFiles/rebuild_cache.dir
+/home/hao007/github/hao_slambook2/ch6/build/CMakeFiles/edit_cache.dir
+/home/hao007/github/hao_slambook2/ch6/build/CMakeFiles/g2oCurveFitting.dir
+/home/hao007/github/hao_slambook2/ch6/build/CMakeFiles/ceresCurveFitting.dir
+/home/hao007/github/hao_slambook2/ch6/build/CMakeFiles/gaussNewton.dir

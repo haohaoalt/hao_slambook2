@@ -15,8 +15,8 @@ set(CMAKE_TARGET_DEFINITIONS_CXX
 
 # The include file search paths:
 set(CMAKE_CXX_TARGET_INCLUDE_PATH
-  "/usr/include/eigen3"
   "/home/hao007/haolib/opencv4.6/install/include/opencv4"
+  "/usr/include/eigen3"
   )
 
 # Targets to which this target links.

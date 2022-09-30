@@ -1,6 +1,7 @@
 {
     "cmake.sourceDirectory": "${workspaceFolder}/ch3/useGeometry",
     "files.associations": {
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "chrono": "cpp"
     }
 }

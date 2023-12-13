@@ -1,10 +1,13 @@
 <!--
- * @Author: zhanghao
- * @Date: 2022-09-15 20:35:19
- * @LastEditTime: 2022-09-20 09:51:22
+ * @Author: https://github.com/haohaoalt
+ * @Date: 2023-12-13 20:20:35
+ * @LastEditors: hayden haohaoalt@163.com
+ * @LastEditTime: 2023-12-13 20:20:35
  * @FilePath: /hao_slambook2/ch4/hw4.md
- * @Description: 
+ * @Description: hw4
+ * Copyright (c) 2023 by haohaoalt@163.com, All Rights Reserved. 
 -->
+
 # HW4
 ## 01 验证SO（3）、SE（3）SIM（3）关于乘法成群
 ## 02 验证三维向量R3上定义的叉积x是一种李括号

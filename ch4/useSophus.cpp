@@ -1,3 +1,12 @@
+/*
+ * @Author: https://github.com/haohaoalt
+ * @Date: 2023-12-13 19:58:12
+ * @LastEditors: hayden haohaoalt@163.com
+ * @LastEditTime: 2023-12-13 20:19:21
+ * @FilePath: /hao_slambook2/ch4/useSophus.cpp
+ * @Description: 
+ * Copyright (c) 2023 by haohaoalt@163.com, All Rights Reserved. 
+ */
 #include <iostream>
 #include <cmath>
 #include <Eigen/Core>

@@ -1,4 +1,0 @@
-/home/hao007/github/hao_slambook2/ch3/examples/build/CMakeFiles/rebuild_cache.dir
-/home/hao007/github/hao_slambook2/ch3/examples/build/CMakeFiles/edit_cache.dir
-/home/hao007/github/hao_slambook2/ch3/examples/build/CMakeFiles/plotTrajectory.dir
-/home/hao007/github/hao_slambook2/ch3/examples/build/CMakeFiles/coordinateTransform.dir

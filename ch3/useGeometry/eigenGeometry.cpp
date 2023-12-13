@@ -1,5 +1,14 @@
+/*
+ * @Author: https://github.com/haohaoalt
+ * @Date: 2023-12-13 14:14:48
+ * @LastEditors: hayden haohaoalt@163.com
+ * @LastEditTime: 2023-12-13 14:14:48
+ * @FilePath: /hao_slambook2/ch3/useGeometry/eigenGeometry.cpp
+ * @Description: 
+ * Copyright (c) 2023 by haohaoalt@163.com, All Rights Reserved. 
+ */
 #include <iostream>
-#include <cmath>
+#include <cmath> //for M_PI
 
 using namespace std;
 

@@ -1,9 +1,11 @@
 <!--
- * @Author: zhanghao
- * @Date: 2022-09-14 22:17:38
- * @LastEditTime: 2022-09-14 23:39:30
+ * @Author: https://github.com/haohaoalt
+ * @Date: 2023-12-13 13:45:48
+ * @LastEditors: hayden haohaoalt@163.com
+ * @LastEditTime: 2023-12-13 13:45:49
  * @FilePath: /hao_slambook2/ch3/hw3.md
  * @Description: 
+ * Copyright (c) 2023 by haohaoalt@163.com, All Rights Reserved. 
 -->
 # HW3
 ## 写在前面

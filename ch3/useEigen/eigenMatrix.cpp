@@ -1,27 +1,32 @@
 /*
- * @Author: zhanghao
- * @Date: 2022-09-09 09:30:43
- * @LastEditTime: 2022-09-14 22:05:16
+ * @Author: https://github.com/haohaoalt
+ * @Date: 2023-12-13 13:50:59
+ * @LastEditors: hayden haohaoalt@163.com
+ * @LastEditTime: 2023-12-13 14:12:43
  * @FilePath: /hao_slambook2/ch3/useEigen/eigenMatrix.cpp
  * @Description: 
+ * Copyright (c) 2023 by haohaoalt@163.com, All Rights Reserved. 
  */
 #include<iostream>
 using namespace std;
 #include<ctime>
+// Eigen core part
 #include <Eigen/Core>
+// dense matrix computing
 #include <Eigen/Dense>
-
 using namespace Eigen;
 
 #define MATRIX_SIZE 50
 
 int main(int argc, char ** argv)
 {
+     //hayden: <type column row>
     Matrix<float,2,3> matrix_23;
     Vector3d v_3d;
     Matrix<float,3,1> vd_3d;
 
     Matrix3d matrix_33 = Matrix3d::Zero();
+    // unknown matrix size
     Matrix<double,Dynamic,Dynamic> matrix_dynamic;
     MatrixXd matrix_x;
     

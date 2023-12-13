@@ -1,10 +1,14 @@
 <!--
- * @Author: zhanghao
- * @Date: 2022-09-08 20:24:28
- * @LastEditTime: 2022-09-08 20:46:03
+ * @Author: https://github.com/haohaoalt
+ * @Date: 2023-12-13 12:15:04
+ * @LastEditors: hayden haohaoalt@163.com
+ * @LastEditTime: 2023-12-13 12:17:37
  * @FilePath: /hao_slambook2/ch2/hw2.md
  * @Description: 
+ * Copyright (c) 2023 by haohaoalt@163.com, All Rights Reserved. 
 -->
+# book code
+![1702440909469](image/hw2/1702440909469.png)
 # HW2
 ## 01 单目视觉及基于图优化SLAM综述
 ## 02 视觉SLAM综述

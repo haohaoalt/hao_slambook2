@@ -1,6 +1,0 @@
-/home/hao007/github/hao_slambook2/ch2/build/CMakeFiles/rebuild_cache.dir
-/home/hao007/github/hao_slambook2/ch2/build/CMakeFiles/useHello.dir
-/home/hao007/github/hao_slambook2/ch2/build/CMakeFiles/edit_cache.dir
-/home/hao007/github/hao_slambook2/ch2/build/CMakeFiles/hello_shared.dir
-/home/hao007/github/hao_slambook2/ch2/build/CMakeFiles/hello.dir
-/home/hao007/github/hao_slambook2/ch2/build/CMakeFiles/helloSLAM.dir

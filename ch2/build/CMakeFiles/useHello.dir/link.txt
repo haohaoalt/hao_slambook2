@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/useHello.dir/useHello.cpp.o  -o useHello  -Wl,-rpath,/home/hao007/github/hao_slambook2/ch2/build libhello_shared.so 
